@@ -1,0 +1,13 @@
+{
+    "language": "go",
+    "app": "go run main.go version",
+    "codeMakerOutput": "generated",
+    "projectId": "golang-cli-cobra",
+    "sendCrashReports": "false",
+    "terraformProviders": [],
+    "terraformModules": [],
+    "context": {
+      "excludeStackIdFromLogicalIds": "true",
+      "allowSepCharsInLogicalIds": "true"
+    }
+  }
